@@ -1,9 +1,19 @@
 ﻿  ciyEngine3D.cpp
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(558,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(558,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(558,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(558,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(558,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(558,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(330): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(707,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(707,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(706,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(706,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(705,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(705,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(710,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(710,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(710,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(710,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(710,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(710,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(775,24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(776,24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(830,24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(831,24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\ciyEngine3D\ciyEngine3D.cpp(418): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': 모든 제어 경로에서 값을 반환하지는 않습니다.
   ciyEngine3D.vcxproj -> C:\Users\user\source\repos\ciyEngine3D_GraphicsEGN\ciyEngine3D\Debug\ciyEngine3D.exe
